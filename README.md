@@ -89,7 +89,7 @@ The script will:
 - Predictions for custom images are displayed as matplotlib plots with the original and preprocessed image alongside the predicted digit.
 - Here is an example of prediction. It is a '1' digit I personally drew and placed in the `images to test` folder:
 
-  ![Prediction of Digit 1](example\prediction.png)
+![Prediction of Digit 1](example/prediction.png)
 
 ---
 
